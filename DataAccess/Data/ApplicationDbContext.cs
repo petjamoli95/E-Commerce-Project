@@ -1,4 +1,4 @@
-namespace MVCProject.Data;
+namespace DataAccess.Data;
 
 public class ApplicationDbContext : DbContext
 {

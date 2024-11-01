@@ -1,6 +1,4 @@
-using System.ComponentModel;
-
-namespace MVCProject.Models;
+namespace Models.Models;
 
 public class Category
 {
