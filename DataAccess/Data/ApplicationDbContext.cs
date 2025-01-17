@@ -31,7 +31,7 @@ public class ApplicationDbContext : DbContext
                     Price50 = 85,
                     Price100 = 80,
                     CategoryId = 1,
-                    ImageUrl = ""
+                    ImageUrl = @"\images\product\d9bb6b6f-d048-4f5a-aaf1-7c356679dc1b.jpg"
                 },
                 new Product
                 {
@@ -45,7 +45,7 @@ public class ApplicationDbContext : DbContext
                     Price50 = 25,
                     Price100 = 20,
                     CategoryId = 1,
-                    ImageUrl = ""
+                    ImageUrl = @"\images\product\fd964679-6069-41d3-87ff-4ebb6b6a6dcc.jpg"
                 },
                 new Product
                 {
@@ -59,7 +59,7 @@ public class ApplicationDbContext : DbContext
                     Price50 = 40,
                     Price100 = 35,
                     CategoryId = 1,
-                    ImageUrl = ""
+                    ImageUrl = @"\images\product\b3fdaae9-8d22-4653-aa50-c314e8b5bcf6.jpg"
                 },
                 new Product
                 {
@@ -73,7 +73,7 @@ public class ApplicationDbContext : DbContext
                     Price50 = 60,
                     Price100 = 55,
                     CategoryId = 2,
-                    ImageUrl = ""
+                    ImageUrl = @"\images\product\5a5fa2c6-a164-473b-bd36-c4b29cb2caea.jpg"
                 },
                 new Product
                 {
@@ -87,7 +87,7 @@ public class ApplicationDbContext : DbContext
                     Price50 = 25,
                     Price100 = 20,
                     CategoryId = 2,
-                    ImageUrl = ""
+                    ImageUrl = @"\images\product\eb0b638a-e514-4406-8951-9e42b97eb34c.jpg"
                 },
                 new Product
                 {
@@ -101,7 +101,7 @@ public class ApplicationDbContext : DbContext
                     Price50 = 22,
                     Price100 = 20,
                     CategoryId = 3,
-                    ImageUrl = ""
+                    ImageUrl = @"\images\product\ff492979-b875-4251-ab6e-544957d41070.jpg"
                 }
         );
     }
